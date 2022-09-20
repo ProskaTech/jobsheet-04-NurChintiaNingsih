@@ -1,5 +1,11 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+// Created by 21343011_Nur Chintia Ningsih
+1. AritmatikaDemo.java merupakan file latihan 1, menampilkan operator aritmatika
+2. RelasiDemo.java merupakan file latihan 2, menampilkan penggunaan operator relasi
+3. TestAND.java merupakan file latihan 3, menampilkan penggunaan operator logika dan Boolean AND
+4. TestOR.java merupakan file latihan 4, menampilkan penggunaan operator logika dan Boolean OR
+5. TestNOT.java merupakan file latihan 5, menampilkan penggunaan operator logika NOT
+6. kondisiOperator.java merupakan file latihan 6, menampilkan penggunaan operator ternary/kondisi (?:)
+7. kondisiOperator1.java merupakan file latihan 7, menampilkan penggunaan operator  ternary/kondisi (?:)
+8. Tugasjob4.java merupakan file tugas 1, menampilkan nilai rata rata dari 3 angka
+9. Tugasjob4nomor2.java merupakan file tugas 2, menampilkan nilai terbesar dari 3 angka
